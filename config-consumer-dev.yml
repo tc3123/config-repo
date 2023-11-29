@@ -1,4 +1,4 @@
 info:
   profile: dev
 name: tc3
-word:'hello spring cloud config!'
+word: 'hello spring cloud config'
